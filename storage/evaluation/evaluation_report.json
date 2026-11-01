@@ -1,0 +1,322 @@
+[
+  {
+    "name": "pencil",
+    "prompt": "A pencil with a graphite tip and an eraser at the back",
+    "sketch_file": "storage\\evaluation\\sketches\\sketch_pencil.png",
+    "processed_file": "C:\\Users\\Rohit\\OneDrive\\Documents\\Desktop\\ML HACKATHON\\storage\\processed\\proc_sketch_pencil.png",
+    "glb_file": "C:\\Users\\Rohit\\OneDrive\\Documents\\Desktop\\ML HACKATHON\\storage\\models\\eval_pencil.glb",
+    "vertices": 190,
+    "faces": 360,
+    "components": 5,
+    "is_watertight": true,
+    "dimensions": [
+      0.175,
+      2.08,
+      0.175
+    ],
+    "material_name": "MultiComponentPBR",
+    "elapsed_seconds": 0.244,
+    "projections": {
+      "front_xy": [
+        0.175,
+        2.08
+      ],
+      "side_zy": [
+        0.175,
+        2.08
+      ],
+      "top_xz": [
+        0.175,
+        0.175
+      ]
+    }
+  },
+  {
+    "name": "mug",
+    "prompt": "Glossy red ceramic mug with sturdy curved handle",
+    "sketch_file": "storage\\evaluation\\sketches\\sketch_mug.png",
+    "processed_file": "C:\\Users\\Rohit\\OneDrive\\Documents\\Desktop\\ML HACKATHON\\storage\\processed\\proc_sketch_mug.png",
+    "glb_file": "C:\\Users\\Rohit\\OneDrive\\Documents\\Desktop\\ML HACKATHON\\storage\\models\\eval_mug.glb",
+    "vertices": 27036,
+    "faces": 54088,
+    "components": 1,
+    "is_watertight": true,
+    "dimensions": [
+      2.004,
+      1.784,
+      2.004
+    ],
+    "material_name": "Ceramic",
+    "elapsed_seconds": 1.395,
+    "projections": {
+      "front_xy": [
+        2.004,
+        1.784
+      ],
+      "side_zy": [
+        2.004,
+        1.784
+      ],
+      "top_xz": [
+        2.004,
+        2.004
+      ]
+    }
+  },
+  {
+    "name": "bottle",
+    "prompt": "Green glass beverage bottle with slender neck",
+    "sketch_file": "storage\\evaluation\\sketches\\sketch_bottle.png",
+    "processed_file": "C:\\Users\\Rohit\\OneDrive\\Documents\\Desktop\\ML HACKATHON\\storage\\processed\\proc_sketch_bottle.png",
+    "glb_file": "C:\\Users\\Rohit\\OneDrive\\Documents\\Desktop\\ML HACKATHON\\storage\\models\\eval_bottle.glb",
+    "vertices": 14708,
+    "faces": 29428,
+    "components": 1,
+    "is_watertight": true,
+    "dimensions": [
+      0.86,
+      2.005,
+      0.86
+    ],
+    "material_name": "Glass",
+    "elapsed_seconds": 0.91,
+    "projections": {
+      "front_xy": [
+        0.86,
+        2.005
+      ],
+      "side_zy": [
+        0.86,
+        2.005
+      ],
+      "top_xz": [
+        0.86,
+        0.86
+      ]
+    }
+  },
+  {
+    "name": "water_glass",
+    "prompt": "Translucent blue glass tumbler",
+    "sketch_file": "storage\\evaluation\\sketches\\sketch_water_glass.png",
+    "processed_file": "C:\\Users\\Rohit\\OneDrive\\Documents\\Desktop\\ML HACKATHON\\storage\\processed\\proc_sketch_water_glass.png",
+    "glb_file": "C:\\Users\\Rohit\\OneDrive\\Documents\\Desktop\\ML HACKATHON\\storage\\models\\eval_water_glass.glb",
+    "vertices": 20650,
+    "faces": 41296,
+    "components": 1,
+    "is_watertight": true,
+    "dimensions": [
+      1.508,
+      2.0,
+      1.518
+    ],
+    "material_name": "Glass",
+    "elapsed_seconds": 1.161,
+    "projections": {
+      "front_xy": [
+        1.508,
+        2.0
+      ],
+      "side_zy": [
+        1.518,
+        2.0
+      ],
+      "top_xz": [
+        1.508,
+        1.518
+      ]
+    }
+  },
+  {
+    "name": "chair",
+    "prompt": "Minimalist wooden dining chair",
+    "sketch_file": "storage\\evaluation\\sketches\\sketch_chair.png",
+    "processed_file": "C:\\Users\\Rohit\\OneDrive\\Documents\\Desktop\\ML HACKATHON\\storage\\processed\\proc_sketch_chair.png",
+    "glb_file": "C:\\Users\\Rohit\\OneDrive\\Documents\\Desktop\\ML HACKATHON\\storage\\models\\eval_chair.glb",
+    "vertices": 152,
+    "faces": 280,
+    "components": 6,
+    "is_watertight": true,
+    "dimensions": [
+      1.2,
+      1.92,
+      1.1
+    ],
+    "material_name": "MultiComponentPBR",
+    "elapsed_seconds": 0.152,
+    "projections": {
+      "front_xy": [
+        1.2,
+        1.92
+      ],
+      "side_zy": [
+        1.1,
+        1.92
+      ],
+      "top_xz": [
+        1.2,
+        1.1
+      ]
+    }
+  },
+  {
+    "name": "table",
+    "prompt": "Sturdy solid oak coffee table",
+    "sketch_file": "storage\\evaluation\\sketches\\sketch_table.png",
+    "processed_file": "C:\\Users\\Rohit\\OneDrive\\Documents\\Desktop\\ML HACKATHON\\storage\\processed\\proc_sketch_table.png",
+    "glb_file": "C:\\Users\\Rohit\\OneDrive\\Documents\\Desktop\\ML HACKATHON\\storage\\models\\eval_table.glb",
+    "vertices": 144,
+    "faces": 268,
+    "components": 5,
+    "is_watertight": true,
+    "dimensions": [
+      1.8,
+      1.02,
+      1.2
+    ],
+    "material_name": "MultiComponentPBR",
+    "elapsed_seconds": 0.209,
+    "projections": {
+      "front_xy": [
+        1.8,
+        1.02
+      ],
+      "side_zy": [
+        1.2,
+        1.02
+      ],
+      "top_xz": [
+        1.8,
+        1.2
+      ]
+    }
+  },
+  {
+    "name": "lamp",
+    "prompt": "Contemporary brushed brass desk lamp",
+    "sketch_file": "storage\\evaluation\\sketches\\sketch_lamp.png",
+    "processed_file": "C:\\Users\\Rohit\\OneDrive\\Documents\\Desktop\\ML HACKATHON\\storage\\processed\\proc_sketch_lamp.png",
+    "glb_file": "C:\\Users\\Rohit\\OneDrive\\Documents\\Desktop\\ML HACKATHON\\storage\\models\\eval_lamp.glb",
+    "vertices": 134,
+    "faces": 256,
+    "components": 3,
+    "is_watertight": true,
+    "dimensions": [
+      1.1,
+      1.24,
+      1.1
+    ],
+    "material_name": "MultiComponentPBR",
+    "elapsed_seconds": 0.133,
+    "projections": {
+      "front_xy": [
+        1.1,
+        1.24
+      ],
+      "side_zy": [
+        1.1,
+        1.24
+      ],
+      "top_xz": [
+        1.1,
+        1.1
+      ]
+    }
+  },
+  {
+    "name": "vase",
+    "prompt": "Handcrafted terracotta ceramic vase",
+    "sketch_file": "storage\\evaluation\\sketches\\sketch_vase.png",
+    "processed_file": "C:\\Users\\Rohit\\OneDrive\\Documents\\Desktop\\ML HACKATHON\\storage\\processed\\proc_sketch_vase.png",
+    "glb_file": "C:\\Users\\Rohit\\OneDrive\\Documents\\Desktop\\ML HACKATHON\\storage\\models\\eval_vase.glb",
+    "vertices": 18508,
+    "faces": 37012,
+    "components": 1,
+    "is_watertight": true,
+    "dimensions": [
+      1.27,
+      1.998,
+      1.273
+    ],
+    "material_name": "Ceramic",
+    "elapsed_seconds": 0.969,
+    "projections": {
+      "front_xy": [
+        1.27,
+        1.998
+      ],
+      "side_zy": [
+        1.273,
+        1.998
+      ],
+      "top_xz": [
+        1.27,
+        1.273
+      ]
+    }
+  },
+  {
+    "name": "teapot",
+    "prompt": "Classic porcelain teapot with side handle and spout",
+    "sketch_file": "storage\\evaluation\\sketches\\sketch_teapot.png",
+    "processed_file": "C:\\Users\\Rohit\\OneDrive\\Documents\\Desktop\\ML HACKATHON\\storage\\processed\\proc_sketch_teapot.png",
+    "glb_file": "C:\\Users\\Rohit\\OneDrive\\Documents\\Desktop\\ML HACKATHON\\storage\\models\\eval_teapot.glb",
+    "vertices": 26610,
+    "faces": 53236,
+    "components": 1,
+    "is_watertight": true,
+    "dimensions": [
+      2.0,
+      1.16,
+      1.78
+    ],
+    "material_name": "Ceramic",
+    "elapsed_seconds": 1.702,
+    "projections": {
+      "front_xy": [
+        2.0,
+        1.16
+      ],
+      "side_zy": [
+        1.78,
+        1.16
+      ],
+      "top_xz": [
+        2.0,
+        1.78
+      ]
+    }
+  },
+  {
+    "name": "stool",
+    "prompt": "Modern wooden bar stool",
+    "sketch_file": "storage\\evaluation\\sketches\\sketch_stool.png",
+    "processed_file": "C:\\Users\\Rohit\\OneDrive\\Documents\\Desktop\\ML HACKATHON\\storage\\processed\\proc_sketch_stool.png",
+    "glb_file": "C:\\Users\\Rohit\\OneDrive\\Documents\\Desktop\\ML HACKATHON\\storage\\models\\eval_stool.glb",
+    "vertices": 186,
+    "faces": 352,
+    "components": 5,
+    "is_watertight": true,
+    "dimensions": [
+      1.3,
+      1.07,
+      1.3
+    ],
+    "material_name": "MultiComponentPBR",
+    "elapsed_seconds": 0.177,
+    "projections": {
+      "front_xy": [
+        1.3,
+        1.07
+      ],
+      "side_zy": [
+        1.3,
+        1.07
+      ],
+      "top_xz": [
+        1.3,
+        1.3
+      ]
+    }
+  }
+]
